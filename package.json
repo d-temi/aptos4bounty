@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@aptos-labs/wallet-adapter-ant-design": "^3.0.23",
+    "@aptos-labs/wallet-adapter-react": "^3.7.9",
+    "petra-plugin-wallet-adapter": "^0.4.5",
+    "react-router-dom": "^7.0.2"
+  }
+}
